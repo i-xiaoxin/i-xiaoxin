@@ -16,10 +16,9 @@
 ### 🏆 Profile Trophy
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=i-xiaoxin&title=Stars,Repositories,MultiLanguage,Commits,Issues,PullRequest
+    <img src="https://github-profile-trophy.vercel.app/?username=i-xiaoxin&title=Stars,Repositories,MultiLanguage,Commits,Issues,PullRequest,Followers
 &margin-w=15&margin-h=15" alt="xiaoxinlore" />
 </p>
-
 
 
 
