@@ -4,7 +4,6 @@
     <a title="Github Total Stars" target="_blank" href="https://i-xiaoxin.github.io">
         <img src="https://img.shields.io/github/stars/i-xiaoxin/i-xiaoxin.github.io?affiliations=OWNER&color=success&logo=github&style=plastic" />
     </a>
-    
     <a title="Github Followers" target="_blank" href="https://i-xiaoxin.github.io">
         <img src="https://img.shields.io/github/followers/i-xiaoxin?color=success&logo=github&style=plastic" />
     </a>
@@ -18,8 +17,10 @@
 ### 🏆 Profile Trophy
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=i-xiaoxin&title=Stars,Followers,MultiLanguage,Commits,Issues&margin-w=15&margin-h=15" alt="xiaoxinlore" />
+    <img src="https://github-profile-trophy.vercel.app/?username=i-xiaoxin&title=Stars,Followers,Repositories,MultiLanguage,Commits,Issues,PullRequest
+&margin-w=15&margin-h=15" alt="xiaoxinlore" />
 </p>
+
 
 
 ### 🔨 Skills and Tools
@@ -107,9 +108,11 @@
 
 <div align="center">
     <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=i-xiaoxin&count_private=true&show_icons=true" />
-    <span>&emsp;&emsp;</span>
-    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-xiaoxin&layout=compact&langs_count=8" />
-    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=i-xiaoxin&count_private=true&show_icons=true"/>
 </div>
 
+<div align="center">
+	<span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-xiaoxin&layout=compact&langs_count=8"/>
+    <span>&emsp;&emsp;</span>
+</div>
