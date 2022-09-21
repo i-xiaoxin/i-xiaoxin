@@ -14,11 +14,11 @@
 
 [![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=💡%E7%9F%A5%E9%81%93%E7%9A%84%E8%B6%8A%E5%A4%9A%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E8%B6%8A%E5%A4%9A)](https://git.io/typing-svg)
 
+
 ### 🏆 Profile Trophy
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=i-xiaoxin&title=Stars,Repositories,MultiLanguage,Commits,Issues,PullRequest,Followers
-&margin-w=15&margin-h=15、" alt="xiaoxinlore"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=i-xiaoxin&title=Stars,Repositories,MultiLanguage,Commits,Issues,PullRequest,Followers&margin-w=15&margin-h=15" alt="xiaoxinlore"/>
 </p>
 
 
