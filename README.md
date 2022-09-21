@@ -4,7 +4,6 @@
     <a title="Github Total Stars" target="_blank" href="https://i-xiaoxin.github.io">
         <img src="https://img.shields.io/github/stars/i-xiaoxin/i-xiaoxin.github.io?affiliations=OWNER&color=success&logo=github&style=plastic" />
     </a>
-    
     <a title="Github Followers" target="_blank" href="https://i-xiaoxin.github.io">
         <img src="https://img.shields.io/github/followers/i-xiaoxin?color=success&logo=github&style=plastic" />
     </a>
