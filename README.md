@@ -11,15 +11,15 @@
         <img src="https://img.shields.io/github/languages/top/i-xiaoxin/i-xiaoxin.github.io?color=success&label=java&logo=github&style=plastic" />
     </a>
 </p>
-
-[![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=💡%E7%9F%A5%E9%81%93%E7%9A%84%E8%B6%8A%E5%A4%9A%E8%B6%8A%E4%B8%8D%E7%9F%A5%E9%81%93)](https://git.io/typing-svg)
+[![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=💡%E7%9F%A5%E9%81%93%E7%9A%84%E8%B6%8A%E5%A4%9A%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E8%B6%8A%E5%A4%9A)](https://git.io/typing-svg)
 
 ### 🏆 Profile Trophy
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=i-xiaoxin&title=Stars,Followers,Repositories,MultiLanguage,Commits,Issues,PullRequest
+    <img src="https://github-profile-trophy.vercel.app/?username=i-xiaoxin&title=Stars,Repositories,MultiLanguage,Commits,Issues,PullRequest
 &margin-w=15&margin-h=15" alt="xiaoxinlore" />
 </p>
+
 
 
 
